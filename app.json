@@ -1,0 +1,15 @@
+{
+  "name": "Telegram 群组管理机器人",
+  "description": "一个用于管理 Telegram 群组的机器人,可以自动踢出不活跃成员。",
+  "repository": "https://github.com/你的GitHub用户名/仓库名",
+  "logo": "https://telegra.ph/file/0d2eb703053dbc87d0d5f.png",
+  "keywords": ["telegram", "bot", "python"],
+  "env": {
+    "TELEGRAM_TOKEN": {
+      "description": "Telegram 机器人的 API Token"
+    },
+    "ADMIN_IDS": {
+      "description": "管理员的 Telegram 用户 ID,多个 ID 之间用逗号分隔"
+    }
+  }
+}
