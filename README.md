@@ -49,24 +49,4 @@
 
 [MIT License](LICENSE)
 
-Citations:
-[1] https://blog.51cto.com/u_6740008/4852594
-[2] https://github.com/luhuisicnu/The-Flask-Mega-Tutorial-zh/blob/master/docs/%E7%AC%AC%E5%8D%81%E5%85%AB%E7%AB%A0%EF%BC%9AHeroku%E4%B8%8A%E7%9A%84%E9%83%A8%E7%BD%B2.md
-[3] https://lpd-ios.github.io/2017/07/11/GitHub-Wiki-Introduction/
-[4] http://xiaocong.github.io/blog/2013/03/20/team-collaboration-with-github/
-[5] https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-[6] https://www.jianshu.com/p/9ab92efc286a
-[7] https://github.com/liangshimeng/heroku-v2ray2.0
-[8] https://yuuichung.github.io/2018/06/06/hexo-readme/
-[9] https://github.com/guodongxiaren/README
-[10] https://docs.github.com/zh/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes
-[11] https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github
-[12] https://blog.csdn.net/weixin_38419133/article/details/88877175
-[13] https://www.volcengine.com/theme/3800988-R-7-1
-[14] https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md
-[15] https://github.com/peng-zhihui/Dummy-Robot/blob/main/README.md
-[16] https://github.com/Hubery-Lee/Notes/blob/master/%E5%A6%82%E4%BD%95%E5%9C%A8github%E4%B8%8A%E5%86%99%E5%87%BA%E6%BC%82%E4%BA%AE%E7%9A%84readme.md.md
-[17] https://github.com/zhayujie/bot-on-anything/blob/master/README.md
-[18] https://github.com/kaivin/markdown/blob/master/readme.md
-[19] https://github.com/qhduan/ConversationalRobotDesign/blob/master/%E5%AF%B9%E8%AF%9D%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8A%80%E6%9C%AF%E7%AE%80%E4%BB%8B%EF%BC%9A%E9%97%AE%E7%AD%94%E7%B3%BB%E7%BB%9F%E3%80%81%E5%AF%B9%E8%AF%9D%E7%B3%BB%E7%BB%9F%E4%B8%8E%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA/README.md
-[20] https://github.com/madawei2699/myGPTReader/blob/main/README-CN.md
+
