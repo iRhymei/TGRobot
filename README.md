@@ -16,7 +16,7 @@
 - 一个 Heroku 帐号,如果没有可以 [免费注册](https://signup.heroku.com/)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/iRhymei/TGRobot)  
-#（注:这机器人不能用，这个机器人是我通过AI和自己胡编的）
+#（注:这机器人不能用，这个机器人是我通过AI胡编的，不能确保正常运行）
 
 部署步骤:
 
