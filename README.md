@@ -15,7 +15,7 @@
 - 你自己的 Telegram 用户 ID,将用于识别管理员身份,可以通过 [@userinfobot](https://t.me/userinfobot) 获取
 - 一个 Heroku 帐号,如果没有可以 [免费注册](https://signup.heroku.com/)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)]（这个不能用）(https://heroku.com/deploy?template=https://github.com/iRhymei/TGRobot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)]  （这个不能用）(https://heroku.com/deploy?template=https://github.com/iRhymei/TGRobot)
 
 部署步骤:
 
